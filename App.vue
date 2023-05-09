@@ -2,6 +2,7 @@
 	export default {
 		onLaunch: function() {
 			// console.log('App Launch')
+			// console.log(this.$u.config.v);
 		},
 		onShow: function() {
 			// console.log('App Show')

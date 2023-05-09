@@ -7,7 +7,7 @@
 			<u-col span="12">
 				<view class="status_bar">
 					<!-- 这里是状态栏 -->
-					<!-- <u-navbar title="我是自定义的标题栏" leftIcon=""> </u-navbar> -->
+					<u-navbar title="我是自定义的标题栏" leftIcon=""> </u-navbar>
 				</view>
 				<u-swiper style="height: auto;" class="banner" :list="bannerList" @change="bannerChange" @click="click">
 				</u-swiper>
